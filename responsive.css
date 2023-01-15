@@ -1,0 +1,105 @@
+@media (max-width: 900px) {
+    .Titulo h1 {
+      font-size: 3em;
+      top: 15%;
+      
+    }
+  }
+
+  @media (max-width: 800px) {
+    .Titulo h1 {
+      font-size: 2em;
+      
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .Titulo h1 {
+      font-size: 2em;
+      
+    }
+  }
+
+  
+  @media (max-width: 900px) {
+    .Titulo h4 {
+      
+      top: 25%;
+    }
+  }
+
+  @media (max-width: 1366px) {
+    .texto{
+        
+        padding-left: 5%;
+    }
+  }
+
+  @media (max-width: 1366px) {
+    .texto h1{
+        font-weight: 300;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .texto{
+        padding-right: 2%;
+        padding-left: 2%;
+        text-align: center;
+
+    }
+  }
+
+
+  @media (max-width: 900px) {
+    .texto {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+
+        
+    }
+  }
+
+ 
+   @media (max-width: 900px) {
+    .texto img{
+        width: 20%;
+        height: 20%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 5%;
+        
+    }
+  }
+
+
+  
+  @media (max-width: 900px) {
+    .galeria img{
+        padding: 2%;
+        border-radius: 25% 25% 25% 25%;
+        margin-left: 5%;
+    }
+  }
+
+
+  
+  @media (max-width: 900px) {
+    .lluvia{
+        width: 20%;
+    }
+  }
+
+  @media (max-width: 1600px) {
+    .texto img{
+        width: 20%;
+        height: 20%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 5%;
+        margin-right: 5%;
+        min-width: 10%
+    }
+  }
+
